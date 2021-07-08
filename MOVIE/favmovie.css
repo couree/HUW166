@@ -9,3 +9,14 @@
     transform: translate(-50%,-50%);
     width: 950px;
 }
+
+h1 {
+    text-transform: none;
+    color: #666666;
+    letter-spacing: 1px; 
+    font-size: 20px;
+    margin-bottom: 10px; 
+    margin-left: 150px;
+    padding-top: 50px;
+    font-weight: normal;
+}
