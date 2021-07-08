@@ -1,0 +1,11 @@
+#container {
+    background: #ffe6d9;                
+    height: 600px;
+    left: 50%;
+    margin-bottom: 40px;
+    overflow: hidden;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 950px;
+}
